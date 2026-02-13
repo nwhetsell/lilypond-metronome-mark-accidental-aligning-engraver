@@ -11,7 +11,7 @@ lilypond --output=metronome-mark-accidental-aligning --svg - <<EOS
   top-margin = 0
   left-margin = 0
   right-margin = 0
-  oddFooterMarkup= ##f
+  oddFooterMarkup = ##f
 }
 \pointAndClickOff
 \relative {
